@@ -1,0 +1,6 @@
+{
+  "name": "TerrainMap AI",
+  "description": "Professional GIS terrain map generator with verified elevation data, raster analytics, contour generation, elevation profiling, and geospatial exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
